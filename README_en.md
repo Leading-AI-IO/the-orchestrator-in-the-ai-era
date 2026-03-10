@@ -47,7 +47,7 @@ This book consists of 6 chapters.
 | File | Language | Content |
 |---|---|---|
 | [the_orchestrator_in_the_ai_era_jp.md](./docs/jp/the_orchestrator_in_the_ai_era_jp.md) | 🇯🇵 Japanese | Full text (Japanese) |
-| the_orchestrator_in_the_ai_era_en.md | 🇺🇸 English | Full text (English) — Coming Soon |
+| [the_orchestrator_in_the_ai_era_en.md](./docs/en/the_orchestrator_in_the_ai_era_en.md) | 🇺🇸 English | Full text (English) |
 
 ---
 
