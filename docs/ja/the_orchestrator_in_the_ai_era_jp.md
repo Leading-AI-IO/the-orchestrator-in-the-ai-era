@@ -52,12 +52,9 @@
 | **Creative** | 有用性（Desirability） | N1超解像度、インサイト、体験設計 | 「美しい」ものを設計する言語 |
 | **Technology** | 実現可能性（Feasibility） | アーキテクチャ、実装、運営・セキュリティ | 「動く」ものを構築する言語 |
 
-<!-- VISUAL 1: BTC 3領域のベン図
-- Business（青）/ Creative（赤）/ Technology（緑）の3つの円が重なるベン図
-- 各円の内側に担保する価値を記載: Viability / Desirability / Feasibility
-- 3つが重なる中心部分は空白（→ 第6章で「オーケストレーター」として定義される場所）
-- シンプル・モノトーン基調、カバーデザインのトーンに合わせる
--->
+<p align="left">
+  <img src="../../assets/BxTxC_triangle.png" width="70%"><br>
+</p>
 
 この3つは、それぞれが独立した思考体系を持ち、独自の評価基準で世界を解釈している。
 
