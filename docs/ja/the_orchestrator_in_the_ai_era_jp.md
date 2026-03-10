@@ -1,10 +1,13 @@
-
+# The Orchestrator — The Rarest Role in the AI Era
+**1つの専門性はAIに負ける。** <br>
+**Business × Technology × Creativeの3つの専門性を統合し、人とAIの両方をオーケストレーションできる人材** <br>
+**— それがAI時代のオーケストレーターであり、まだ誰も定義していない。**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](../../docs/)
 
-<p align="center">
-  <img src="../../assets/cover_design.png" width="80%"><br>
+<p align="left">
+  <img src="../../assets/cover_design.png" width="70%"><br>
 </p>
 
 ---
