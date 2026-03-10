@@ -47,7 +47,7 @@ AI時代に最も希少なのは、Business・Technology・Creativeの3つの専
 | ファイル | 言語 | 内容 |
 |---|---|---|
 | [the_orchestrator_in_the_ai_era_jp.md](./docs/ja/the_orchestrator_in_the_ai_era_jp.md) | 🇯🇵 日本語 | 本文（日本語版） |
-| the_orchestrator_in_the_ai_era_en.md | 🇺🇸 English | 本文（英語版）— Coming Soon |
+| [the_orchestrator_in_the_ai_era_en.md](./docs/en/the_orchestrator_in_the_ai_era_jp.md) | 🇺🇸 English | 本文（英語版） |
 
 ---
 
