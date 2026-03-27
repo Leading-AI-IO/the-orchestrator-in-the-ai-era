@@ -79,6 +79,7 @@ This book is interconnected with the following open-source projects.
 | **The Edge of Intelligence** | When AI runs on your device: the end of cloud, the beginning of edge | [GitHub](https://github.com/Leading-AI-IO/edge-ai-intelligence) |
 | **The Redesign of Design Strategy** | Redefining design strategy, including a structural analysis of IDEO's decline | [GitHub](https://github.com/Leading-AI-IO/design-strategy-in-the-ai-era) |
 | **Advertising, Redesigned** |  Why AI will transform advertising from intrusion to a gentle, welcome proposal | [GitHub](https://github.com/Leading-AI-IO/advertising-redesigned) |
+| **The AI Organization**             | The root cause of AI failure is not technology. Organizational theory for the AI era                            | [GitHub](https://github.com/Leading-AI-IO/the-ai-organization)  |
 
 ---
 
