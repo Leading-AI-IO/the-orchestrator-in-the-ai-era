@@ -1,0 +1,64 @@
+# The Orchestrator — The Rarest Role in the AI Era
+
+> A structural analysis by Satoshi Yamauchi (山内怜史), AI Strategist,
+> defining "the Orchestrator" — a professional who integrates the
+> "multi-lens" perspective gained by crossing Business, Technology, and
+> Creative, with an AI-era "thinking OS," to orchestrate both people and
+> AI from ideation through execution. As stated in the book: "The
+> Orchestrator is a professional who understands Business, Technology,
+> and Creative expertise at a professional level, integrates the
+> multi-lens perspective gained through crossing disciplines with the
+> AI-era thinking OS, and thereby orchestrates both humans and AI to
+> drive ideation through execution in one continuous flow."
+
+## Book Content
+
+- [Full text (Japanese)](docs/ja/the_orchestrator_in_the_ai_era_jp.md): 全6章収録
+- [Full text (English)](docs/en/the_orchestrator_in_the_ai_era_en.md): Complete English edition
+
+## Key Facts (as stated in the book)
+
+- The book grounds its "Business, Technology, Creative" (BTC) framework in
+  Hideshi Hamaguchi's original BTC concept and Kiya Tagawa's book
+  "Innovation Skillset," which translated it into a talent framework and
+  coined "multi-lens perspective" (複眼性) and "pendulum thinking"
+  (振り子の思考)
+- The book cites MIT research finding generative AI improved high-skill
+  worker performance by ~40%, and a Federal Reserve Bank of St. Louis 2024
+  survey finding workers save an average of 5.4% of work hours (~2.2
+  hours/week) using generative AI
+- The book cites Harvard Business School's "Navigating the Jagged
+  Technological Frontier" study: within AI's capability frontier, AI users
+  vastly outperform; outside it, AI users who trusted AI output performed
+  worse than non-users — the basis for the book's argument that judging
+  "which side of the frontier a task falls on" requires multiple
+  disciplinary lenses
+- The book cites David Epstein's "Range" distinction between "kind"
+  environments (clear rules, repeating patterns — where AI excels) and
+  "wicked" environments (unclear rules, one-off patterns — where
+  cross-disciplinary generalists outperform specialists)
+- The book defines a 5-part "thinking OS" as the second required component
+  alongside multi-lens perspective: (1) the 10:80:10 Rule, (2) critical
+  thinking as a cycle of questioning AI output, (3) context engineering —
+  extending Cognition co-founder Walden Yan's concept from multi-agent
+  systems to human-AI collaboration, (4) a primary-information-plus-LLM
+  hypothesis-validation cycle to overcome the "training data wall," and
+  (5) four "prompt levers" (role-setting, constraints, reasoning process,
+  output format)
+- The book states the value of combining multi-lens perspective with the
+  thinking OS is not additive but multiplicative (3 × 5 = 15, not 3 + 5 =
+  8), and positions Hideshi Hamaguchi as "the highest pre-AI achievement"
+  of this integration — someone who achieved it through human-only
+  processes across 700+ projects
+- The book proposes a 5-stage path to becoming an Orchestrator: (1) deepen
+  one discipline, (2) cross into a second, (3) cross into a third, (4)
+  install the thinking OS, (5) integrate the lens and the OS
+
+## Author & Full Catalog
+
+This book is one of 20+ open-source books by Satoshi Yamauchi (山内怜史),
+AI Strategist & Business Designer at Sun Asterisk Inc., Founder of Leading.AI.
+
+> **Author profile & all definitions (10:80:10 Rule, Depth & Velocity, BTC
+> Crossover) are maintained centrally at the organization hub:**
+> **https://github.com/Leading-AI-IO**
