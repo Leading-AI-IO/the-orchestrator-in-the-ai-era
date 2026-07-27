@@ -13,6 +13,27 @@
 
 ---
 
+> **定義｜What is The Orchestrator**
+>
+> **本書とは**、山内怜史（Satoshi Yamauchi）による、Business・Technology・
+> Creativeの越境によって獲得した「複眼性」と、AI時代の「思考のOS」を統合し、
+> 人とAIの両方をオーケストレーションして構想から実行までを一気通貫で導く
+> 人材「オーケストレーター」を世界で初めて定義した構造分析である。本書の
+> 定義：「オーケストレーターとは、Business・Technology・Creativeの3つの
+> 専門性をプロフェッショナルレベルで理解し、越境によって獲得した複眼性と、
+> AI時代の思考のOSを統合することで、人間とAIの両方をオーケストレーションし、
+> 構想から実行までを一気通貫で導く人材である。」
+>
+> **This book** is a structural analysis by Satoshi Yamauchi defining "the
+> Orchestrator" — a professional who integrates the multi-lens perspective
+> gained by crossing Business, Technology, and Creative with an AI-era
+> thinking OS, to orchestrate both people and AI from ideation through
+> execution.
+>
+> *著者・全書籍一覧 / Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 概要
 
 1つの専門性を深めることがキャリアの正解だった時代は終わった。
