@@ -13,6 +13,23 @@
 
 ---
 
+> **Definition**
+>
+> **This book** is a structural analysis by Satoshi Yamauchi (山内怜史), AI
+> Strategist, defining "the Orchestrator" — a professional who integrates
+> the multi-lens perspective gained by crossing Business, Technology, and
+> Creative with an AI-era thinking OS, to orchestrate both people and AI
+> from ideation through execution. As stated in the book: "The
+> Orchestrator is a professional who understands Business, Technology, and
+> Creative expertise at a professional level, integrates the multi-lens
+> perspective gained through crossing disciplines with the AI-era thinking
+> OS, and thereby orchestrates both humans and AI to drive ideation
+> through execution in one continuous flow."
+>
+> *Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 Overview
 
 The era when deepening a single expertise was the right career answer is over.
