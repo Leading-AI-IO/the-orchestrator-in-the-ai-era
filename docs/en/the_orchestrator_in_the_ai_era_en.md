@@ -1,7 +1,7 @@
-# The Orchestrator — The Rarest Role in the AI Era
+# The AI Orchestrator — The Rarest Role in the AI Era
 **A single expertise loses to AI.** <br>
 **The person who integrates three expertises — Business × Technology × Creative — and orchestrates both humans and AI** <br>
-**— that is the Orchestrator of the AI era, and no one has defined it yet.**
+**— that is the AI Orchestrator, and no one has defined it yet.**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](../../docs/)
@@ -586,7 +586,7 @@ That is the subject of the next chapter.
 
 ---
 
-# Chapter 5: The Integration of Eyes and Weapons — The Birth of the Orchestrator
+# Chapter 5: The Integration of Eyes and Weapons — The Birth of the AI Orchestrator
 
 ## The Moment Two Conditions Converge
 
@@ -600,7 +600,7 @@ This chapter addresses what happens the moment these two converge.
 
 The conclusion, stated first:
 
-**When eyes (multi-disciplinary depth perception) and weapons (the Thinking OS) are integrated within a single human being, that person becomes an "Orchestrator."**
+**When eyes (multi-disciplinary depth perception) and weapons (the Thinking OS) are integrated within a single human being, that person becomes an "AI Orchestrator."**
 
 ## The Structure of Multiplication
 
@@ -692,17 +692,17 @@ This is the profile of talent that this book seeks to define.
 
 John Maeda called the talent standing at the intersection of design and technology the "humanist technologist." Someone who understands technology and can integrate humanity into design. Former professor at MIT Media Lab, former president of RISD, and currently VP AI & Design at Microsoft — he himself continues to embody the concept.
 
-Maeda's "humanist technologist" is an important precursor to the Orchestrator defined in this book. But its scope differs in two respects.
+Maeda's "humanist technologist" is an important precursor to the AI Orchestrator defined in this book. But its scope differs in two respects.
 
-First, Maeda's concept is built on two axes: Design × Technology. The Business axis is not explicitly included. The Orchestrator demands the integration of all three axes, including Business.
+First, Maeda's concept is built on two axes: Design × Technology. The Business axis is not explicitly included. The AI Orchestrator demands the integration of all three axes, including Business.
 
-Second, Maeda's concept positions AI as "something to stand against." "Design Against AI" — how should design stand in relation to AI? The Orchestrator does not regard AI as "something to stand against" but as "an instrument to command as an extension of one's own eyes." Not standing against AI, but conducting it.
+Second, Maeda's concept positions AI as "something to stand against." "Design Against AI" — how should design stand in relation to AI? The AI Orchestrator does not regard AI as "something to stand against" but as "an instrument to command as an extension of one's own eyes." Not standing against AI, but conducting it.
 
-Donald Schön's concept of "The Reflective Practitioner" is also a precursor to the Orchestrator. Schön described the process by which professionals learn through reflecting on their own actions. The boundary crosser acquires multi-disciplinary depth perception by repeating reflective practice across different domains. The Orchestrator carries out reflective practice within the dialogue with AI, running a cycle of human–AI co-evolution.
+Donald Schön's concept of "The Reflective Practitioner" is also a precursor to the AI Orchestrator. Schön described the process by which professionals learn through reflecting on their own actions. The boundary crosser acquires multi-disciplinary depth perception by repeating reflective practice across different domains. The AI Orchestrator carries out reflective practice within the dialogue with AI, running a cycle of human–AI co-evolution.
 
-Nigel Cross academically studied the thinking methods unique to designers and described "the designer's eye" in cognitive-scientific terms. The "designer's eye" that Cross described is one of the three eyes the Orchestrator holds. This book extends its scope to the integration of all three — including the business eye and the technology eye.
+Nigel Cross academically studied the thinking methods unique to designers and described "the designer's eye" in cognitive-scientific terms. The "designer's eye" that Cross described is one of the three eyes the AI Orchestrator holds. This book extends its scope to the integration of all three — including the business eye and the technology eye.
 
-In short, the Orchestrator is an entity that subsumes all these precursor concepts and extends them with the weapons of the AI era.
+In short, the AI Orchestrator is an entity that subsumes all these precursor concepts and extends them with the weapons of the AI era.
 
 - Hamaguchi's "BTC boundary crossing × reproducible methodology"
 - Maeda's "humanist technologist"
@@ -711,7 +711,7 @@ In short, the Orchestrator is an entity that subsumes all these precursor concep
 
 All of these, integrated within a single human being and further armed with the Thinking OS of the AI era.
 
-That person is the Orchestrator.
+That person is the AI Orchestrator.
 
 ## The Orchestra Metaphor
 
@@ -721,13 +721,13 @@ That person is the Orchestrator.
 
 <br>
 
-Why the name "Orchestrator"?
+Why the name "AI Orchestrator"?
 
 The conductor of an orchestra does not play an instrument. Yet they can read the scores of every part, understand the characteristics of every instrument, give precise instructions to each player, and integrate the performance of a hundred musicians into a single work of music.
 
 If the conductor knew only the strings, their instructions to the winds would miss the mark. If they did not understand the nature of percussion, the rhythmic architecture of the whole would collapse. The conductor's value lies not in the ability to play any individual instrument, but in the ability to understand every part and integrate them.
 
-The Orchestrator of the AI era operates by the same structure.
+The AI Orchestrator operates by the same structure.
 
 They can read the "scores" of the three "parts" — Business, Technology, and Creative. They can give precise instructions to the professionals in each domain, in their language. And by commanding AI — a powerful "instrument" — at will, they integrate the harmony of the three parts into a single product, a single business, a single organization.
 
@@ -735,23 +735,23 @@ A person with only a single expertise can become the "principal player" of a sin
 
 A generalist knows every part "broadly and shallowly." They can read the outline of each score but lack the depth to give precise instructions to each player. As a result, they elicit competent but unremarkable performances.
 
-The Orchestrator understands multiple parts "deeply" and then integrates. They can converse in the language of each part and know, from their own experience, each player's limits and potential. That is why they can issue instructions that draw out the latent capability of every player. And with AI as an added instrument, the volume and expressive range of the orchestra expand to a dimension incomparable to the era of humans alone.
+The AI Orchestrator understands multiple parts "deeply" and then integrates. They can converse in the language of each part and know, from their own experience, each player's limits and potential. That is why they can issue instructions that draw out the latent capability of every player. And with AI as an added instrument, the volume and expressive range of the orchestra expand to a dimension incomparable to the era of humans alone.
 
 ## A Podium Where No One Yet Stands
 
 At the opening of this book, the core message was stated.
 
-"The rarest role in the AI era is the person who understands Business, Technology, and Creative at a professional level and can orchestrate both humans and AI. That is the Orchestrator, and no one has defined it yet."
+"The rarest role in the AI era is the person who understands Business, Technology, and Creative at a professional level and can orchestrate both humans and AI. That is the AI Orchestrator, and no one has defined it yet."
 
 Having read this far, the meaning of those words should now be sharply in focus.
 
-The Orchestrator is the person who integrates the three eyes gained through boundary crossing with the weapon of the AI-era Thinking OS. The point that Hamaguchi reached, updated for the AI era. Maeda's concept, extended to three axes. Epstein's proof of the generalist's advantage, elevated to "integration with depth."
+The AI Orchestrator is the person who integrates the three eyes gained through boundary crossing with the weapon of the AI-era Thinking OS. The point that Hamaguchi reached, updated for the AI era. Maeda's concept, extended to three axes. Epstein's proof of the generalist's advantage, elevated to "integration with depth."
 
 No one stands on that podium yet.
 
 But this book asserts that the podium is reachable. What is needed is not a flash of genius. It is the courage to cross boundaries and the will to acquire the Thinking OS.
 
-The next chapter presents the concrete definition of the Orchestrator and a practical path to arrival.
+The next chapter presents the concrete definition of the AI Orchestrator and a practical path to arrival.
 
 
 
@@ -769,7 +769,7 @@ The next chapter presents the concrete definition of the Orchestrator and a prac
 
 ---
 
-# Chapter 6: The Definition of the Orchestrator
+# Chapter 6: The Definition of the AI Orchestrator
 
 ## Definition
 
@@ -781,24 +781,24 @@ Here, we define the answer.
 
 ---
 
-**The Orchestrator is a person who understands the three expertises of Business, Technology, and Creative at a professional level, integrates the multi-disciplinary depth perception gained through boundary crossing with the Thinking OS of the AI era, and thereby orchestrates both humans and AI to lead seamlessly from concept to execution.**
+**The AI Orchestrator is a person who understands the three expertises of Business, Technology, and Creative at a professional level, integrates the multi-disciplinary depth perception gained through boundary crossing with the Thinking OS of the AI era, and thereby orchestrates both humans and AI to lead seamlessly from concept to execution.**
 
 ---
 
-The Orchestrator is not a generalist. Not a specialist. Not a manager.
+The AI Orchestrator is not a generalist. Not a specialist. Not a manager.
 
 | Talent Profile | Definition | Limitation |
 |---|---|---|
 | **Specialist** | Masters a single domain | Cannot see other domains. Execution is substituted by AI, compressing value |
 | **Generalist** | Knows multiple domains broadly and shallowly | Lacks depth in each domain; cannot give precise instructions to professionals |
 | **Manager** | Manages people | Does not possess the ability to conduct AI. Lacks the perspective to integrate the whole into a single work |
-| **Orchestrator** | Understands multiple domains deeply, integrates them, and conducts both humans and AI | — |
+| **AI Orchestrator** | Understands multiple domains deeply, integrates them, and conducts both humans and AI | — |
 
 This is a talent profile that no one had yet defined.
 
-## The Three Eyes of the Orchestrator
+## The Three Eyes of the AI Orchestrator
 
-Let us precisely redefine the three eyes the Orchestrator holds.
+Let us precisely redefine the three eyes the AI Orchestrator holds.
 
 **The Business Eye.** The eye that sees through to profitability and sustainability. It reads the dynamics of stakeholders, dissects the structure of markets, and relentlessly asks: "Will this business still exist in ten years?" It reads the meaning behind the numbers, and understands the human decision-making structures that rationality alone cannot explain. It does not stop at drawing strategy — it structurally grasps why that strategy will not pass: the inertia of the organization, the biases of decision-makers, the conflicting interests among stakeholders — and designs the breakthrough.
 
@@ -818,37 +818,37 @@ When the business eye and the creative eye integrate, you can conceive a busines
 
 And when all three integrate, a single human can render real-time judgments that simultaneously satisfy all of these: "Highly profitable, moves the human heart, technically implementable, and sustainably operable in a production environment."
 
-## The Orchestrator's Weapons
+## The AI Orchestrator's Weapons
 
-Let us redefine, as a system, the Thinking OS the Orchestrator is equipped with.
+Let us redefine, as a system, the Thinking OS the AI Orchestrator is equipped with.
 
 This Thinking OS was systematized by the author of this book as "Depth & Velocity (D&V)" — a methodology for new-business development in the age of generative AI. It was not born from desk-bound theory. Over more than 15 years of a boundary-crossing career across Business, Technology, and Creative, through countless failures and gritty front-line experiences, through hitting walls alongside clients, through honing co-creation with AI in live combat — this methodology was reached. There are things that can only be forged by someone who has built both theory and practice with their own hands. This Thinking OS was born precisely in that way.
 
-**The 10:80:10 Rule.** The human formulates the "question" in the first 10%, delegates the middle 80% to AI, and renders "judgment" in the final 10%. The Orchestrator activates all three eyes simultaneously in that first and last 10%. Questions are designed from three directions at once; judgments are verified on three axes at once.
+**The 10:80:10 Rule.** The human formulates the "question" in the first 10%, delegates the middle 80% to AI, and renders "judgment" in the final 10%. The AI Orchestrator activates all three eyes simultaneously in that first and last 10%. Questions are designed from three directions at once; judgments are verified on three axes at once.
 
-**Critical Thinking.** The dialogue process of "doubting and guiding" AI's output. The Orchestrator verifies AI's output multi-dimensionally against three criteria: business logic, creative sensibility, and technological constraints. Multi-disciplinary depth perception catches contradictions that any single criterion would miss.
+**Critical Thinking.** The dialogue process of "doubting and guiding" AI's output. The AI Orchestrator verifies AI's output multi-dimensionally against three criteria: business logic, creative sensibility, and technological constraints. Multi-disciplinary depth perception catches contradictions that any single criterion would miss.
 
-**Context Engineering.** The practice of permanently preserving and cultivating a project's context through dialogue with AI. The Orchestrator's context file integrates observations, insights, and judgments from all three expertises. That context file pseudo-installs "the Orchestrator's eyes" into AI.
+**Context Engineering.** The practice of permanently preserving and cultivating a project's context through dialogue with AI. The AI Orchestrator's context file integrates observations, insights, and judgments from all three expertises. That context file pseudo-installs "the AI Orchestrator's eyes" into AI.
 
-**The Primary Intelligence × LLM Hypothesis Cycle.** Breaking through the learning-data wall with raw information gained in the field. Because the Orchestrator collects primary intelligence through three eyes, the resolution and multi-dimensionality of that information are fundamentally different.
+**The Primary Intelligence × LLM Hypothesis Cycle.** Breaking through the learning-data wall with raw information gained in the field. Because the AI Orchestrator collects primary intelligence through three eyes, the resolution and multi-dimensionality of that information are fundamentally different.
 
-**The Four Prompt Levers.** Wielding role setting, constraints, thought process, and output format to unlock AI's latent potential. The Orchestrator switches fluidly among the roles of business consultant, UX designer, and senior engineer within a single person, simultaneously extracting deep knowledge from AI across all three expertises.
+**The Four Prompt Levers.** Wielding role setting, constraints, thought process, and output format to unlock AI's latent potential. The AI Orchestrator switches fluidly among the roles of business consultant, UX designer, and senior engineer within a single person, simultaneously extracting deep knowledge from AI across all three expertises.
 
-## The World the Orchestrator Leads
+## The World the AI Orchestrator Leads
 
-When an Orchestrator exists within an organization, what changes?
+When an AI Orchestrator exists within an organization, what changes?
 
 **Disconnection disappears.** Recall the conference room from Chapter 1. The business expert holding a business plan, the creative expert with user research spread out, the technology expert studying an architecture diagram. Three people speaking different languages, unable to see each other's world.
 
-The Orchestrator stands between these three and translates all three languages simultaneously. They convert business requirements into technological constraints, connect technological possibilities to creative experience design, and integrate creative insights into business strategy. It is not that disconnection vanishes. Rather, for the first time, the entity that bridges disconnection is defined.
+The AI Orchestrator stands between these three and translates all three languages simultaneously. They convert business requirements into technological constraints, connect technological possibilities to creative experience design, and integrate creative insights into business strategy. It is not that disconnection vanishes. Rather, for the first time, the entity that bridges disconnection is defined.
 
-**Speed changes.** In traditional organizations, the path from concept to execution required deliberation, translation, and coordination among multiple specialists. The Orchestrator integrates concept and execution within a single person and, through AI, turns cycles in units of minutes. Business-hypothesis design, user-experience prototyping, and technical-feasibility validation are completed within a single dialogue session.
+**Speed changes.** In traditional organizations, the path from concept to execution required deliberation, translation, and coordination among multiple specialists. The AI Orchestrator integrates concept and execution within a single person and, through AI, turns cycles in units of minutes. Business-hypothesis design, user-experience prototyping, and technical-feasibility validation are completed within a single dialogue session.
 
-**The quality of judgment changes.** The greatest risk of the AI era is accepting AI's output uncritically. A person with only a single expertise can verify AI's output only by their own domain's criteria. The Orchestrator verifies on three criteria simultaneously, accurately reading the "jagged" contour of AI's frontier and precisely judging when to trust AI and when to doubt it.
+**The quality of judgment changes.** The greatest risk of the AI era is accepting AI's output uncritically. A person with only a single expertise can verify AI's output only by their own domain's criteria. The AI Orchestrator verifies on three criteria simultaneously, accurately reading the "jagged" contour of AI's frontier and precisely judging when to trust AI and when to doubt it.
 
 ## The Path to Arrival
 
-The Orchestrator is not made in a day.
+The AI Orchestrator is not made in a day.
 
 But the path is clear.
 
@@ -858,7 +858,7 @@ But the path is clear.
 | **Stage Two** | Cross into a second domain | The budding of multi-disciplinary depth perception. The beginning of "the pendulum of thought" |
 | **Stage Three** | Cross into a third domain | A cubic expansion. An extraordinarily rare talent position |
 | **Stage Four** | Install the Thinking OS | The five weapons for commanding AI at will |
-| **Stage Five** | Integrate eyes and weapons | The unification of concept and execution. The birth of the Orchestrator |
+| **Stage Five** | Integrate eyes and weapons | The unification of concept and execution. The birth of the AI Orchestrator |
 
 <p align="left">
   <img src="../../assets/five_stages_to_arrival.png" width="70%"><br>
@@ -878,7 +878,7 @@ But the path is clear.
 
 These five stages may require more than a decade of a career. There are no shortcuts.
 
-But just as Hideshi Hamaguchi proved that "innovation is reproducible," the path to the Orchestrator is also reproducible. What is needed is not a flash of genius. It is the courage to cross boundaries, the will to acquire the Thinking OS, and the resolve to keep walking for years.
+But just as Hideshi Hamaguchi proved that "innovation is reproducible," the path to the AI Orchestrator is also reproducible. What is needed is not a flash of genius. It is the courage to cross boundaries, the will to acquire the Thinking OS, and the resolve to keep walking for years.
 
 ## To the Podium
 
