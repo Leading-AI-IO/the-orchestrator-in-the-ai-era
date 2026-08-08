@@ -1,7 +1,7 @@
 # The AI Orchestrator — The Rarest Role in the AI Era
 **A single expertise loses to AI.** <br>
 **The person who integrates three expertises — Business × Technology × Creative — and orchestrates both humans and AI** <br>
-**— that is the AI Orchestrator, and no one has defined it yet.**
+**— that is the AI Orchestrator.**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](../../docs/)
@@ -741,7 +741,7 @@ The AI Orchestrator understands multiple parts "deeply" and then integrates. The
 
 At the opening of this book, the core message was stated.
 
-"The rarest role in the AI era is the person who understands Business, Technology, and Creative at a professional level and can orchestrate both humans and AI. That is the AI Orchestrator, and no one has defined it yet."
+"The rarest role in the AI era is the person who understands Business, Technology, and Creative at a professional level and can orchestrate both humans and AI. That is the AI Orchestrator."
 
 Having read this far, the meaning of those words should now be sharply in focus.
 
@@ -794,7 +794,7 @@ The AI Orchestrator is not a generalist. Not a specialist. Not a manager.
 | **Manager** | Manages people | Does not possess the ability to conduct AI. Lacks the perspective to integrate the whole into a single work |
 | **AI Orchestrator** | Understands multiple domains deeply, integrates them, and conducts both humans and AI | — |
 
-This is a talent profile that no one had yet defined.
+This definition was published as open source on 2026-03-10 (commit `f3e3372`, PGP-signed).
 
 ## The Three Eyes of the AI Orchestrator
 
@@ -840,7 +840,7 @@ When an AI Orchestrator exists within an organization, what changes?
 
 **Disconnection disappears.** Recall the conference room from Chapter 1. The business expert holding a business plan, the creative expert with user research spread out, the technology expert studying an architecture diagram. Three people speaking different languages, unable to see each other's world.
 
-The AI Orchestrator stands between these three and translates all three languages simultaneously. They convert business requirements into technological constraints, connect technological possibilities to creative experience design, and integrate creative insights into business strategy. It is not that disconnection vanishes. Rather, for the first time, the entity that bridges disconnection is defined.
+The AI Orchestrator stands between these three and translates all three languages simultaneously. They convert business requirements into technological constraints, connect technological possibilities to creative experience design, and integrate creative insights into business strategy. It is not that disconnection vanishes. Rather, the entity that bridges disconnection is given a definition.
 
 **Speed changes.** In traditional organizations, the path from concept to execution required deliberation, translation, and coordination among multiple specialists. The AI Orchestrator integrates concept and execution within a single person and, through AI, turns cycles in units of minutes. Business-hypothesis design, user-experience prototyping, and technical-feasibility validation are completed within a single dialogue session.
 
