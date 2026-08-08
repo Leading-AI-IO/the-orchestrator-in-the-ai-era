@@ -38,9 +38,9 @@ AI is compressing the value of single-domain expertise by taking over execution.
 
 The rarest talent in the AI era is someone who understands Business, Technology, and Creative at a professional level, and can orchestrate both people and AI.
 
-**That is the AI Orchestrator — a role no one has defined until now.**
+**That is the AI Orchestrator.**
 
-This book defines a new type of talent for the first time: the AI Orchestrator — one who integrates the "eyes" (multi-disciplinary perspective gained through boundary-crossing) with the "weapons" (a Thinking OS for the AI era).
+This book defines a new type of talent: the AI Orchestrator — one who integrates the "eyes" (multi-disciplinary perspective gained through boundary-crossing) with the "weapons" (a Thinking OS for the AI era). First published on 2026-03-10 (commit `f3e3372`, PGP-signed).
 
 ---
 
@@ -55,7 +55,7 @@ This book consists of 6 chapters.
 | Ch.3 | The Essence of Crossing Boundaries | Kinya Tagawa's "compound eyes" and "pendulum thinking," Hideshi Hamaguchi's "bias break" and "structured chaos." Proving that boundary-crossing is not a jack-of-all-trades dilution, but a multiplication of resolution |
 | Ch.4 | The Thinking OS — Weapons for Those Who Command AI | The 10:80:10 Rule, Critical Thinking, Context Engineering, Primary Information × LLM Hypothesis Cycle, Four Prompt Levers. Five weapons extracted from the Depth & Velocity methodology |
 | Ch.5 | Integration of Eyes and Weapons — The Birth of the AI Orchestrator | What happens when multi-disciplinary perspective and the Thinking OS are unified in a single person. Not addition, but multiplication. Positioning Hideshi Hamaguchi as the pre-AI pinnacle and updating for the AI era |
-| Ch.6 | The Definition of the AI Orchestrator | Defining a talent profile no one has reached. Precise description of the three eyes, the Thinking OS framework, and a five-stage practical roadmap to get there |
+| Ch.6 | The Definition of the AI Orchestrator | Defining the talent profile. Precise description of the three eyes, the Thinking OS framework, and a five-stage practical roadmap to get there |
 
 ---
 

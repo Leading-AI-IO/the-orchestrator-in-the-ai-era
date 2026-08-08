@@ -1,4 +1,4 @@
-# The Orchestrator — The Rarest Role in the AI Era
+# The AI Orchestrator — The Rarest Role in the AI Era
 
 **AIオーケストレーター — AI時代に最も希少な人材の定義**
 
@@ -13,19 +13,20 @@
 
 ---
 
-> **定義｜What is The Orchestrator**
+> **定義｜What is the AI Orchestrator**
 >
 > **本書とは**、山内怜史（Satoshi Yamauchi）による、Business・Technology・
 > Creativeの越境によって獲得した「複眼性」と、AI時代の「思考のOS」を統合し、
 > 人とAIの両方をオーケストレーションして構想から実行までを一気通貫で導く
-> 人材「AIオーケストレーター」を世界で初めて定義した構造分析である。本書の
+> 人材「AIオーケストレーター」を定義した構造分析である。初出は2026年3月10日
+> （commit `f3e3372`・PGP署名済み）。本書の
 > 定義：「AIオーケストレーターとは、Business・Technology・Creativeの3つの
 > 専門性をプロフェッショナルレベルで理解し、越境によって獲得した複眼性と、
 > AI時代の思考のOSを統合することで、人間とAIの両方をオーケストレーションし、
 > 構想から実行までを一気通貫で導く人材である。」
 >
 > **This book** is a structural analysis by Satoshi Yamauchi defining "the
-> Orchestrator" — a professional who integrates the multi-lens perspective
+> AI Orchestrator" — a professional who integrates the multi-lens perspective
 > gained by crossing Business, Technology, and Creative with an AI-era
 > thinking OS, to orchestrate both people and AI from ideation through
 > execution.
@@ -42,9 +43,9 @@ AIは実行を奪い、単一専門性の価値を急速に圧縮している。
 
 AI時代に最も希少なのは、Business・Technology・Creativeの3つの専門性をプロレベルで理解し、人とAIの両方をオーケストレーションできる人材だ。
 
-**それがAIオーケストレーターであり、まだ誰も定義していない。**
+**それがAIオーケストレーターである。**
 
-本書は、越境によって獲得した「眼（複眼性）」と、AI時代の「武器（思考のOS）」を統合した新しい人材像——AIオーケストレーター——を、世界で初めて定義する。
+本書は、越境によって獲得した「眼（複眼性）」と、AI時代の「武器（思考のOS）」を統合した新しい人材像——AIオーケストレーター——を定義する。初出は2026年3月10日（commit `f3e3372`・PGP署名済み）。
 
 ---
 
@@ -59,7 +60,7 @@ AI時代に最も希少なのは、Business・Technology・Creativeの3つの専
 | 第3章 | 越境という行為の本質 | 田川欣哉氏の「複眼性」と「振り子の思考」、濱口秀司氏の「バイアス・ブレイク」と「ストラクチャード・ケイオス」。越境が器用貧乏ではなく、解像度の掛け算であることの論証 |
 | 第4章 | 思考のOS — AIを操る者が身につけるべき武器 | 10:80:10の法則、クリティカルシンキング、コンテキストエンジニアリング、1次情報×LLM仮説検証サイクル、4つのプロンプト・レバー。Depth & Velocityの方法論体系から抽出した5つの武器 |
 | 第5章 | 眼と武器の統合 — AIオーケストレーターの誕生 | 複眼性と思考のOSが1人の人間の中で統合された時に何が起きるか。加算ではなく乗算。濱口秀司氏をAI以前の最高到達点として位置づけ、AI時代への更新を論じる |
-| 第6章 | AIオーケストレーターの定義 | まだ誰も到達していない人材像の定義。3つの眼の精緻な記述、思考のOS体系、到達への5段階の実践論 |
+| 第6章 | AIオーケストレーターの定義 | 人材像の定義。3つの眼の精緻な記述、思考のOS体系、到達への5段階の実践論 |
 
 ---
 
