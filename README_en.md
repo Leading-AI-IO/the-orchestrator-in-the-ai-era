@@ -1,4 +1,4 @@
-# The Orchestrator — The Rarest Role in the AI Era
+# The AI Orchestrator — The Rarest Role in the AI Era
 
 **Why single expertise loses to AI, and why the future belongs to those who integrate Business, Technology, and Creative to orchestrate both people and AI.**
 
@@ -16,11 +16,11 @@
 > **Definition**
 >
 > **This book** is a structural analysis by Satoshi Yamauchi (山内怜史), AI
-> Strategist, defining "the Orchestrator" — a professional who integrates
+> Strategist, defining "the AI Orchestrator" — a professional who integrates
 > the multi-lens perspective gained by crossing Business, Technology, and
 > Creative with an AI-era thinking OS, to orchestrate both people and AI
 > from ideation through execution. As stated in the book: "The
-> Orchestrator is a professional who understands Business, Technology, and
+> AI Orchestrator is a professional who understands Business, Technology, and
 > Creative expertise at a professional level, integrates the multi-lens
 > perspective gained through crossing disciplines with the AI-era thinking
 > OS, and thereby orchestrates both humans and AI to drive ideation
@@ -38,9 +38,9 @@ AI is compressing the value of single-domain expertise by taking over execution.
 
 The rarest talent in the AI era is someone who understands Business, Technology, and Creative at a professional level, and can orchestrate both people and AI.
 
-**That is the Orchestrator — a role no one has defined until now.**
+**That is the AI Orchestrator — a role no one has defined until now.**
 
-This book defines a new type of talent for the first time: the Orchestrator — one who integrates the "eyes" (multi-disciplinary perspective gained through boundary-crossing) with the "weapons" (a Thinking OS for the AI era).
+This book defines a new type of talent for the first time: the AI Orchestrator — one who integrates the "eyes" (multi-disciplinary perspective gained through boundary-crossing) with the "weapons" (a Thinking OS for the AI era).
 
 ---
 
@@ -54,8 +54,8 @@ This book consists of 6 chapters.
 | Ch.2 | Why Single Expertise Is Fragile in the AI Era | 250 years since Adam Smith's division of labor. AI compresses "execution," kind environments collapse, and the value of single expertise is structurally eroded |
 | Ch.3 | The Essence of Crossing Boundaries | Kinya Tagawa's "compound eyes" and "pendulum thinking," Hideshi Hamaguchi's "bias break" and "structured chaos." Proving that boundary-crossing is not a jack-of-all-trades dilution, but a multiplication of resolution |
 | Ch.4 | The Thinking OS — Weapons for Those Who Command AI | The 10:80:10 Rule, Critical Thinking, Context Engineering, Primary Information × LLM Hypothesis Cycle, Four Prompt Levers. Five weapons extracted from the Depth & Velocity methodology |
-| Ch.5 | Integration of Eyes and Weapons — The Birth of the Orchestrator | What happens when multi-disciplinary perspective and the Thinking OS are unified in a single person. Not addition, but multiplication. Positioning Hideshi Hamaguchi as the pre-AI pinnacle and updating for the AI era |
-| Ch.6 | The Definition of the Orchestrator | Defining a talent profile no one has reached. Precise description of the three eyes, the Thinking OS framework, and a five-stage practical roadmap to get there |
+| Ch.5 | Integration of Eyes and Weapons — The Birth of the AI Orchestrator | What happens when multi-disciplinary perspective and the Thinking OS are unified in a single person. Not addition, but multiplication. Positioning Hideshi Hamaguchi as the pre-AI pinnacle and updating for the AI era |
+| Ch.6 | The Definition of the AI Orchestrator | Defining a talent profile no one has reached. Precise description of the three eyes, the Thinking OS framework, and a five-stage practical roadmap to get there |
 
 ---
 
@@ -72,7 +72,7 @@ This book consists of 6 chapters.
 
 | Person | Core Concept | Role in This Book |
 |---|---|---|
-| **Hideshi Hamaguchi** | BTC framework, reproducibility of innovation, bias break, structured chaos | The pre-AI pinnacle. Logical bridge: "Adding AI to Hamaguchi's achievement gives birth to the Orchestrator" |
+| **Hideshi Hamaguchi** | BTC framework, reproducibility of innovation, bias break, structured chaos | The pre-AI pinnacle. Logical bridge: "Adding AI to Hamaguchi's achievement gives birth to the AI Orchestrator" |
 | **Kinya Tagawa** | BTC talent theory, compound eyes, pendulum thinking | Systematized boundary-crossing as a talent framework. Translated Hamaguchi's concepts to individual careers |
 | **John Maeda** | Design in Tech Report, humanist technologist, Design Against AI | 10-year longitudinal observer of the design × technology × business intersection. The one who posed the question for the AI era |
 | **David Epstein** | Range, kind vs. wicked environments | Academic and empirical evidence that boundary-crossers outperform specialists |
@@ -131,7 +131,7 @@ This book is interconnected with the following open-source projects.
 ## 🤝 Contributing
 
 Issues and Pull Requests are welcome.<br>
-We welcome contributions including discussions on the Orchestrator concept, case studies of AI × boundary-crossing careers, and corrections of any kind.
+We welcome contributions including discussions on the AI Orchestrator concept, case studies of AI × boundary-crossing careers, and corrections of any kind.
 
 ---
 
